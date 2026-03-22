@@ -20,7 +20,3 @@ I'm working on Fedora Linux (via WSL) and here are the packages and programs I'm
 - screen - for serial monitoring, aka debug
 - [usbipd-win tool](https://github.com/dorssel/usbipd-win/releases) - installed on windows to share the board connected via USB to WSL2
 - vim (btw)
-
-## Notes
-
-compile_commands.json is only there so my clangd LSP doesn't throw errors and can autocomplete, so directory and file values are just placeholder in the file
